@@ -1,0 +1,65 @@
+/*
+	Clayton Bradford
+	CBradfo8 - 85565
+	CS380 - Spring 2021
+	Final Project 
+	results.css
+*/
+
+body
+{
+    font-family: 'Reggae One', cursive;
+	font-size: 100%;
+	color: white;
+}
+
+.body
+{
+	width: 1000px;
+	margin: 0 auto;
+	padding: 1em;
+	padding-bottom: 30px;
+	background-image: url("school.jpg");
+	background-repeat: no-repeat;
+	background-size: 125%;
+	border: 3px solid black;
+}
+
+h1, h3, p, form
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.dropdown
+{
+	text-align: center;
+	margin-left: 35px;
+}
+
+.dropdown select
+{
+	margin-right: 10px;
+}
+
+.button
+{
+	background-color: black;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
